@@ -2,6 +2,3 @@ pandas
 numpy
 streamlit
 plotly
-prophet
-openai
-scikit-learn
