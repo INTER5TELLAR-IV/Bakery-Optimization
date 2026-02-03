@@ -1,0 +1,6 @@
+# Ignore data folders
+data/
+*.csv
+
+# Ignore secrets
+.env
